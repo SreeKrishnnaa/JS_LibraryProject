@@ -1,1 +1,1 @@
-## Console based Lbrary Management System. Book details are hard coded.
+## Console based Library Management System. Book details are hard coded.
